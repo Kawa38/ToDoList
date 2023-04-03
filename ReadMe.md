@@ -1,0 +1,1 @@
+Ce projet permet d'ajouter des taches à faire dans une liste, de les afficher et d'éventuellement les effacer
